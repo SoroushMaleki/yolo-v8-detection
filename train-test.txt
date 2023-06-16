@@ -1,0 +1,1 @@
+yolo task=detect mode=train model=yolov8s.pt data=/home/soroush/Documents/cybera/cv_detection/K1-6/data.yaml epochs=50 imgsz=640 batch=2
